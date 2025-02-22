@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian Alcario I'm from Argentina</h1>
+<h1 align="center">Hi 👋, I'm Sebastian Alcario from Argentina</h1>
 <h3 align="center">I want to become a DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **Linux, Jenkins, AWS, Docker, etc**
